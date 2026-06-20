@@ -17,7 +17,7 @@ function Index() {
     <iframe
       src="/myboojee-pony-v2.html"
       title="My Boojee Pony"
-      style={{ border: 0, width: "100vw", height: "100vh", display: "block" }}
+      style={{ border: 0, width: "100%", height: "100vh", display: "block", margin: 0, padding: 0 }}
     />
   );
 }
